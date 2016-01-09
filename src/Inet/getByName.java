@@ -1,7 +1,7 @@
 package Inet;
 
 import java.net.*;
-
+//get a netName
 public class getByName
 {
     public static void main(String[] args) throws Exception
